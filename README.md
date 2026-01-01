@@ -28,5 +28,5 @@ I am an aspiring developer passionate about building clean software and explorin
 
 ### 📫 Get in Touch
 
-- **GitHub:** [Vantoox](https://github.com/DEIN_USER_NAME)
-- **Mindset:** *"Kaizen – continuous improvement, one commit at a time."*
+- **GitHub:** [Vantoox](https://github.com/KingVantox)
+
