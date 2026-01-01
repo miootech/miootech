@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Vantoox 🌌
 
-<!--
-**KingVantox/KingVantox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring developer passionate about building clean software and exploring the intersection of hardware and code. My journey is driven by a mindset of continuous learning and a deep interest in minimalist design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Stack
+
+* **Languages:** JavaScript (ES6+), C++, HTML5, CSS3
+* **Backend & Tools:** Node.js, Linux (CLI), Git & GitHub
+* **Hardware:** Arduino, Microcontrollers, Circuit Design
+
+---
+
+### 🌙 Current Focus
+
+- 🔭 **Learning:** Deepening my knowledge in Node.js backend architectures.
+- ⚡ **Experimenting:** Building small-scale automation projects with Arduino.
+- 🏯 **Interests:** Japanese culture, Space exploration, and Cyberpunk aesthetics.
+
+---
+
+### 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEIN_USER_NAME&show_icons=true&theme=midnight-purple&hide_border=true)
+
+---
+
+### 📫 Get in Touch
+
+- **GitHub:** [Vantoox](https://github.com/DEIN_USER_NAME)
+- **Mindset:** *"Kaizen – continuous improvement, one commit at a time."*
