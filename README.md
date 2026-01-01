@@ -22,7 +22,7 @@ I am an aspiring developer passionate about building clean software and explorin
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEIN_USER_NAME&show_icons=true&theme=midnight-purple&hide_border=true)
+[Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KingVantox&show_icons=true&theme=midnight-purple&hide_border=true)
 
 ---
 
